@@ -1,1 +1,1 @@
-This depository has the basics codes for Shell
+This repository has the basics codes for Shell
