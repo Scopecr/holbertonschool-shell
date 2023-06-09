@@ -5,3 +5,5 @@
 2-bring_me_home: This command "cd"  takes you dirrectly back to the home directory
 
 3-listfiles : This command "ls -l" List the files in long format 
+
+4-listfiles: This command "ls -a -l" diplay directory contents including hidden
