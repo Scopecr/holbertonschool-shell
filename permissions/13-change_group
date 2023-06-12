@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown school
+chown bin.bin school
