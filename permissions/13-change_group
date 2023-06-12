@@ -1,2 +1,2 @@
 #!/bin/bash
-chown bin.bin school
+chgrp hello school
