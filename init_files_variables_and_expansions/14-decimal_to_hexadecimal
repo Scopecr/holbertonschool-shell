@@ -1,2 +1,2 @@
 #!/bin/bash
-printf ("obase=16" ; cat DECIMAL) | bc
+printf '%x\n' 10 1a
