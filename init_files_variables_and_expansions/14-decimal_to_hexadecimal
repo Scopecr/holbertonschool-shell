@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 printf ("obase=16" ; cat DECIMAL) | bc
+=======
+echo "obase=16:$DECIMAL"|bc
+>>>>>>> 0c6a15c688fe5e048d1b85b8ddae516f1d92174a
