@@ -1,2 +1,2 @@
 #!/bin/bash
-printf $(($DECIMALx16))
+printf "%16\n" $(DECIMAL)
