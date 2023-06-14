@@ -1,2 +1,2 @@
 #!/bin/bash
-find $PATH -type d -depth 1 | wc -1 
+PATH=$(echo $PATH|tr':''\n') 
